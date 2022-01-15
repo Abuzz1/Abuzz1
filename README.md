@@ -1,4 +1,4 @@
-[![Ali GitHub Banner](Ali.jpg)]
+![Ali GitHub Banner](Ali.jpg)
 
 - 👋 Hi, I’m @Abuzz1
 - 👀 I’m interested in AI and data science.
