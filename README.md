@@ -1,3 +1,5 @@
+[![Ali GitHub Banner](Ali.jpeg)]
+
 - 👋 Hi, I’m @Abuzz1
 - 👀 I’m interested in AI and data science.
 - 🌱 I’m currently learning R
