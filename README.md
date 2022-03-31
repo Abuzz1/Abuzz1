@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-julia-blue)
+![](https://img.shields.io/badge/Code-julia-5b9)
 
 Best Regards,
 Ali Alshawabkeh
